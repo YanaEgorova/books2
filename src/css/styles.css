@@ -23,3 +23,35 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+form {
+  width: 400px;
+  padding: 10px;
+  border: 2px solid gray;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+}
+input {
+  border: 2px solid gray;
+  border-radius: 5px;
+  width: 75%;
+  display: block;
+  padding: 5px;
+}
+label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+button {
+  background-color: rgb(102, 102, 216);
+  color: #fff;
+  border: none;
+  padding: 10px 0;
+   border-radius: 5px;
+}

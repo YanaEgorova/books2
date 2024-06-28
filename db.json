@@ -1,0 +1,87 @@
+[
+  {
+    "title": "A Doll's House",
+    "author": "Henrik Ibsen",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "James Joyce",
+    "title": "Ulysses",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Franz Kafka",
+    "title": "Stories",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Franz Kafka",
+    "title": "The Trial",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Franz Kafka",
+    "title": "The Castle",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "K\u0101lid\u0101sa",
+    "title": "The recognition of Shakuntala",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Yasunari Kawabata",
+    "title": "The Sound of the Mountain",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Nikos Kazantzakis",
+    "title": "Zorba the Greek",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "D. H. Lawrence",
+    "title": "Sons and Lovers",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Halld\u00f3r Laxness",
+    "title": "Independent People",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Giacomo Leopardi",
+    "title": "Poems",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Doris Lessing",
+    "title": "The Golden Notebook",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Astrid Lindgren",
+    "title": "Pippi Longstocking",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Lu Xun",
+    "title": "Diary of a Madman",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Naguib Mahfouz",
+    "title": "Children of Gebelawi",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Thomas Mann",
+    "title": "Buddenbrooks",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  },
+  {
+    "author": "Thomas Mann",
+    "title": "The Magic Mountain",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
+  }
+]
