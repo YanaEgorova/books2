@@ -1,87 +1,130 @@
-[
-  {
-    "title": "A Doll's House",
-    "author": "Henrik Ibsen",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "James Joyce",
-    "title": "Ulysses",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Franz Kafka",
-    "title": "Stories",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Franz Kafka",
-    "title": "The Trial",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Franz Kafka",
-    "title": "The Castle",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "K\u0101lid\u0101sa",
-    "title": "The recognition of Shakuntala",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Yasunari Kawabata",
-    "title": "The Sound of the Mountain",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Nikos Kazantzakis",
-    "title": "Zorba the Greek",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "D. H. Lawrence",
-    "title": "Sons and Lovers",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Halld\u00f3r Laxness",
-    "title": "Independent People",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Giacomo Leopardi",
-    "title": "Poems",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Doris Lessing",
-    "title": "The Golden Notebook",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Astrid Lindgren",
-    "title": "Pippi Longstocking",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Lu Xun",
-    "title": "Diary of a Madman",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Naguib Mahfouz",
-    "title": "Children of Gebelawi",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Thomas Mann",
-    "title": "Buddenbrooks",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  },
-  {
-    "author": "Thomas Mann",
-    "title": "The Magic Mountain",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing."
-  }
-]
+{
+  "books": [
+    {
+      "id": "c1c9",
+      "author": "Susie Hintz",
+      "title": "functionalities",
+      "description": "hacking the protocol won't do anything, we need to program the digital ADP application!"
+    },
+    {
+      "id": "0d9b",
+      "author": "Alfredo Gaylord",
+      "title": "applications",
+      "description": "If we quantify the alarm, we can get to the THX sensor through the mobile PNG monitor!"
+    },
+    {
+      "id": "d3c5",
+      "author": "Guy Bayer",
+      "title": "synergies",
+      "description": "If we program the bus, we can get to the COM feed through the back-end PCI transmitter!"
+    },
+    {
+      "id": "f514",
+      "author": "Timmy Kirlin",
+      "title": "content",
+      "description": "We need to compress the open-source HDD sensor!"
+    },
+    {
+      "id": "935c",
+      "author": "Craig Wolf",
+      "title": "deliverables",
+      "description": "Try to copy the SSL program, maybe it will navigate the auxiliary firewall!"
+    },
+    {
+      "id": "5772",
+      "author": "Wallace Grady",
+      "title": "e-commerce",
+      "description": "I'll navigate the back-end HTTP hard drive, that should bandwidth the PNG protocol!"
+    },
+    {
+      "id": "1fff",
+      "author": "Doyle Kshlerin",
+      "title": "vortals",
+      "description": "I'll generate the 1080p COM transmitter, that should panel the HDD matrix!"
+    },
+    {
+      "id": "0402",
+      "author": "Jesse Barrows",
+      "title": "metrics",
+      "description": "Try to synthesize the XSS hard drive, maybe it will calculate the wireless bus!"
+    },
+    {
+      "id": "c43b",
+      "author": "Terry Kshlerin",
+      "title": "deliverables",
+      "description": "Try to navigate the SAS pixel, maybe it will connect the mobile protocol!"
+    },
+    {
+      "id": "0a78",
+      "author": "Mr. Patricia D'Amore",
+      "title": "markets",
+      "description": "Use the virtual SMTP protocol, then you can input the online monitor!"
+    },
+    {
+      "id": "b131",
+      "author": "Gerald Doyle",
+      "title": "methodologies",
+      "description": "Use the mobile AGP card, then you can calculate the cross-platform panel!"
+    },
+    {
+      "id": "868b",
+      "author": "Luz Fisher",
+      "title": "mindshare",
+      "description": "You can't bypass the bus without connecting the 1080p XML port!"
+    },
+    {
+      "id": "0692",
+      "author": "Bonnie Schinner",
+      "title": "initiatives",
+      "description": "Use the multi-byte USB pixel, then you can quantify the auxiliary protocol!"
+    },
+    {
+      "id": "96c5",
+      "author": "Ms. Colleen Von",
+      "title": "mindshare",
+      "description": "compressing the system won't do anything, we need to synthesize the neural RAM circuit!"
+    },
+    {
+      "id": "1e29",
+      "author": "Julius Willms",
+      "title": "deliverables",
+      "description": "We need to bypass the haptic EXE feed!"
+    },
+    {
+      "id": "b334",
+      "author": "Johnnie Turner",
+      "title": "e-markets",
+      "description": "We need to bypass the haptic RSS program!"
+    },
+    {
+      "id": "49ea",
+      "author": "Dr. Janet Fay",
+      "title": "platforms",
+      "description": "I'll reboot the mobile SAS matrix, that should hard drive the TCP matrix!"
+    },
+    {
+      "id": "185d",
+      "author": "Meredith Feil",
+      "title": "channels",
+      "description": "I'll copy the virtual SMTP program, that should protocol the COM microchip!"
+    },
+    {
+      "id": "9eb4",
+      "author": "Ervin Rowe",
+      "title": "architectures",
+      "description": "If we program the program, we can get to the IB pixel through the online THX system!"
+    },
+    {
+      "id": "cb36",
+      "author": "Ervin Rowe",
+      "title": "architectures",
+      "description": "If we program the program, we can get to the IB pixel through the online THX system!"
+    },
+    {
+      "id": "90e2",
+      "author": "Ervin Rowe",
+      "title": "architectures",
+      "description": "If we program the program, we can get to the IB pixel through the online THX system!"
+    }
+  ]
+}

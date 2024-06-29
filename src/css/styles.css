@@ -23,9 +23,30 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
-body {
+.forms-block {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  gap: 20px;
+  justify-content: center;
+}
+li {
+  width: 300px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: #fddfdf;
+}
+li p span {
+  font-weight: 700;
+}
+li p:not(:last-child) {
+  margin-bottom: 10px;
 }
 form {
   width: 400px;
@@ -53,5 +74,5 @@ button {
   color: #fff;
   border: none;
   padding: 10px 0;
-   border-radius: 5px;
+  border-radius: 5px;
 }
