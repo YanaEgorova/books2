@@ -1,84 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vanilla-app-template/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vanilla App Template</title>
+    
+    <script type="module" crossorigin src="/vanilla-app-template/commonHelpers.js"></script>
+    <link rel="stylesheet" href="/vanilla-app-template/assets/index-9e413502.css">
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="/vanilla-app-template/favicon.svg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vanilla App Template</title>
-  
-  <script type="module" crossorigin src="/vanilla-app-template/commonHelpers.js"></script>
-  <link rel="stylesheet" href="/vanilla-app-template/assets/index-1af1c9c7.css">
-</head>
+  <body>
+    <div class="forms-block">
+      <form class="js-create-form">
+        <label>
+          Title
+          <input type="text" name="title" />
+        </label>
+        <label>
+          Author
+          <input type="text" name="author" />
+        </label>
+        <label>
+          Description
+          <input type="text" name="description" />
+        </label>
+        <button type="submit">Create book</button>
+      </form>
+      <form class="js-reset-form">
+        <label>
+          Id
+          <input type="text" name="id" />
+        </label>
+        <label>
+          Title
+          <input type="text" name="title" />
+        </label>
+        <label>
+          Author
+          <input type="text" name="author" />
+        </label>
+        <label>
+          Description
+          <input type="text" name="description" />
+        </label>
 
-<body>
+        <button type="submit">Reset book</button>
+      </form>
+      <form class="js-update-form">
+        <label>
+          Id
+          <input type="text" name="id" />
+        </label>
+        <label>
+          Title
+          <input type="text" name="title" />
+        </label>
+        <label>
+          Author
+          <input type="text" name="author" />
+        </label>
+        <label>
+          Description
+          <input type="text" name="description" />
+        </label>
 
-  <form class="js-create-form">
-    <label>
-      Title
-      <input type="text">
-    </label>
-    <label>
-      Author
-      <input type="text">
-    </label>
-    <label>
-      Description
-      <input type="text">
-    </label>
-    <button type="submit">Create book</button>
-  </form>
-  <form class="js-reset-form">
-    <label>
-      Id
-      <input type="text">
-    </label>
-    <label>
-      Title
-      <input type="text">
-    </label>
-    <label>
-      Author
-      <input type="text">
-    </label>
-    <label>
-      Description
-      <input type="text">
-    </label>
+        <button type="submit">Update book</button>
+      </form>
+      <form class="js-delete-form">
+        <label>
+          Id
+          <input type="text" name="id" />
+        </label>
+        <button type="submit">Delete book</button>
+      </form>
+    </div>
 
-    <button type="submit">Reset book</button>
-  </form>
-  <form class="js-update-form">
-    <label>
-      Id
-      <input type="text">
-    </label>
-    <label>
-      Title
-      <input type="text">
-    </label>
-    <label>
-      Author
-      <input type="text">
-    </label>
-    <label>
-      Description
-      <input type="text">
-    </label>
+    <ul class="js-list"></ul>
 
-    <button type="submit">Update book</button>
-  </form>
-  <form class="js-delete-form">
-    <label>
-      Id
-      <input type="text">
-    </label>
-    <button type="submit">Delete book</button>
-  </form>
-
-  <ul></ul>
-
-  
-</body>
-
+    
+  </body>
 </html>
